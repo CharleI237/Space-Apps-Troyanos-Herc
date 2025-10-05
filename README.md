@@ -112,6 +112,6 @@ El algoritmo **XGBoost** fue ajustado con hiperparámetros que equilibran precis
 Para ejecutar el proyecto localmente:
 
 ```bash
-git clone https://github.com/<tu_usuario>/exoplanet-ai-classifier.git
+git clone https://github.com/CharleI237/Space-Apps-Troyanos-Herc/
 cd exoplanet-ai-classifier
 pip install -r requirements.txt
